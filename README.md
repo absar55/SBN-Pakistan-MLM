@@ -84,8 +84,7 @@ Direct referrals give instant commission.
 Step 4: Infinite Depth
 The tree keeps growing downwards, meaning earnings from your team never stop.
 
-🖥️ Screenshots
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=Dashboard+Preview" /> <br> <em>Elegant, responsive dashboard design for members.</em> </p> <p align="center"> <img src="https://via.placeholder.com/800x400?text=Binary+Tree+Preview" /> <br> <em>Real-time binary tree view of your network.</em> </p>
+
 🔑 Core Modules
 Member Dashboard
 View earnings.
